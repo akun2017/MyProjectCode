@@ -17,9 +17,7 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-
+[预览效果](http://www.akshow.top/#/)
 
 8月29日删除了父子组件信息传递的两个页面`parent.vue`和`son.vue`
 
